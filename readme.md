@@ -10,6 +10,12 @@
 - `feature_engineering.py`: Extracts features from raw transactions.
 - `scoring_model.py`: Assigns a score (0-1000) based on features.
 - `score_wallets.py`: One-step script to process input and output scores.
+## Data
+
+  The raw transaction data is too large for GitHub.  
+  Please download it manually from [this link](https://drive.google.com/file/d/1ISFbAXxadMrt7Zl96rmzzZmEKZnyW7FS/view?usp=sharing) and place it in the `data/` folder as `user-wallet-transactions.json`.
+
+  
 
 ## Usage
 
