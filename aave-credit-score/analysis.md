@@ -2,7 +2,7 @@
 
 ## Score Distribution
 
-*(Insert histogram plot here)*
+![Score Distribution](score_distribution.png)
 
 ## Observations
 
@@ -14,6 +14,5 @@
 - **Low-score wallets:** [Describe patterns, e.g., high borrow/liquidation, no repayments]
 - **High-score wallets:** [Describe patterns, e.g., high repay/deposit ratio, no liquidations]
 
-## Score Distribution
 
-![Score Distribution](score_distribution.png)
+
