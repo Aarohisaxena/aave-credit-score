@@ -1,8 +1,8 @@
 # Analysis of Wallet Credit Scores
 
 ## Score Distribution
+![Score Distribution](score_distribution.png)
 
-*(Insert histogram plot here)*
 
 ## Observations
 
@@ -14,6 +14,5 @@
 - **Low-score wallets:** [Describe patterns, e.g., high borrow/liquidation, no repayments]
 - **High-score wallets:** [Describe patterns, e.g., high repay/deposit ratio, no liquidations]
 
-## Score Distribution
 
-![Score Distribution](score_distribution.png)
+
